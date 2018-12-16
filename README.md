@@ -9,6 +9,7 @@ Lim Yun Shen yunshenlim1996@gmail.com
 Fairuz Isme fairuzisme@outlook.com
 Fairuz Iam iamfairuz@outlook.com
 
-Team Member: 
-Github username, email
 Link to video recording of your demo or public URL of your project.
+Demo1: https://gbecworld.slack.com/files/UEVNKBG5V/FEUAFD8GY/openfruit-v6_-_farmer-demo.mp4
+Demo2: https://gbecworld.slack.com/files/UEVNKBG5V/FEUEEDGP3/openfruit-v6_-_supplierdemo.mp4
+Slide: https://www.icloud.com/keynote/0DJQh6GnW7c9v86PUmpI_k0wg#Blockchain_Hackathon
